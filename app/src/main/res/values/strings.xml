@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">MyFragment</string>
+    <string-array name="key_terms">
+        <item>Binary</item>
+        <item>ACK</item>
+        <item>IDE</item>
+        <item>Inheritance</item>
+    </string-array>
+    <string-array name="term_definitions">
+        <item>Numbers written in base 2 system.</item>
+        <item>Signal of acknowledgement, confirmation of receipt when data is transmitted between
+            two systems</item>
+        <item>A software application that provides comprehensive facilities to computer programmers
+            for software development</item>
+        <item>Relationship between a more general class (superclass) and a more specialized class
+            (subclass); subclass inherits data and behavior from superclass</item>
+    </string-array>
+    <string-array name="term_options">
+        <item>I know this one!</item>
+        <item>Eh</item>
+        <item>Come back to this one.</item>
+    </string-array>
+</resources>
